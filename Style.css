@@ -36,6 +36,11 @@ body {
   cursor: pointer;
 }
 
+img {
+  width: 25px;
+  position: relative;
+}
+
 .searchbar {
   width: -10%;
   text-align: end;
